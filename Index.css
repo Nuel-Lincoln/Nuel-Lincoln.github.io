@@ -18,10 +18,10 @@ body{
      .Middle{
           width: 100vw;
           min-height:100vh;
-/*           background-image: url('./nasa-Q1p7bh3SHj8-unsplash.jpg'); */
-/*           background-size: 100% 100%; */
+           background-image: url('./nasa-Q1p7bh3SHj8-unsplash.jpg'); 
+           background-size: 100% 100%; 
           /* box-shadow: 10px 10px 10px 10px gray; */
-           background-color: black; 
+/*            background-color: black;  */
           padding: 1%;
           display:flex;
           flex-direction: column;
