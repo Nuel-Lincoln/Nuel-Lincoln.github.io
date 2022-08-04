@@ -49,7 +49,7 @@ body{
                          text-align: justify;
                     }
                          .DFullName, .DPhone, .DEmail, .DAge, .DScore{
-                              font-weight: 200;
+                              font-weight: 500;
                               font-family:Baskerville Old Face;
                               font-size:120%;
                               font-style:italic;
@@ -121,7 +121,7 @@ body{
                     padding: 2%;
                }
                .Message{
-                    font-weight: 200;
+                    font-weight: 500;
                     font-family:Baskerville Old Face;
                     font-size:25px;
                     width:60%;
@@ -169,7 +169,7 @@ body{
                 .Author{
                      width: 50%;
                      box-shadow: 3px 4px 4px 3px black;
-                    font-weight: 200;
+                    font-weight: 500;
                     font-family:Baskerville Old Face;
                     font-size:20px;
                     color: gainsboro;
