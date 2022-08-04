@@ -30,7 +30,7 @@ body{
           }
           .Header{
                width:96%;
-               display: flex;
+               display: none;
                flex-direction: row;
                padding:1%;
                justify-content:space-between;
@@ -214,7 +214,7 @@ body{
                box-shadow: 3px 2px 2px 4px gray;
                border-radius: 2%;
                padding: 3%;
-               display: flex;
+               display: none;
                flex-direction: column;
                align-items: center;
                margin-left: 10%;
@@ -310,7 +310,7 @@ body{
                /* background-image: url('./Recruit1.jpg');
                box-shadow: 5px 3px 5px 5px black; */
                /* border-radius: 2%; */
-               display: flex;
+               display: none;
                padding: 2%;
                flex-direction: column;
                align-items: justify;
