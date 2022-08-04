@@ -130,13 +130,13 @@ const StartTime = 2;
 let Time = StartTime*60;
 
 // if(location.reload()){location.reload.preventDefault()};
-window.addEventListener('load', ()=>{
-     document.getElementById('Main').style.display = 'none';
-     document.getElementById('UserCreate').style.display = 'none';
-     document.getElementById('UserLog').style.display = 'none';
-     document.getElementById('Header').style.display = 'none';
-     document.getElementById('First').style.display = 'flex';
-                              })
+// window.addEventListener('load', ()=>{
+//      document.getElementById('Main').style.display = 'none';
+//      document.getElementById('UserCreate').style.display = 'none';
+//      document.getElementById('UserLog').style.display = 'none';
+//      document.getElementById('Header').style.display = 'none';
+//      document.getElementById('First').style.display = 'flex';
+ //                             })
 
 
 const Countdown = ( ) => {
