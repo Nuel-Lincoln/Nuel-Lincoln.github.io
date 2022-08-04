@@ -420,11 +420,11 @@ LogIn.addEventListener('click', ()=>{
                if(Existing){
                     if(Existing.Password == Password){
                          if(JSON.parse(localStorage.getItem(`Tel: ${Tel}R`))){
-                              alert('score dey')
+                              //alert('score dey')
                               Score = JSON.parse(localStorage.getItem(`Tel: ${Tel}R`))
                               
                          }else{
-                              alert('no score');
+                              //alert('no score');
                          }
                          document.getElementById('UserLog').style.display = 'none';
                          document.getElementById('Header').style.display = 'flex';
