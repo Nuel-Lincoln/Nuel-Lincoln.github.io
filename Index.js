@@ -334,7 +334,7 @@ Previous.addEventListener('click',()=>{
 
 
 Back.addEventListener('click',()=>{
-     window.location.assign('index.html');                      
+     window.location.assign('Index.html');                      
           })
 
 LogOut.addEventListener('click',()=>{
