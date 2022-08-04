@@ -49,9 +49,10 @@ body{
                          text-align: justify;
                     }
                          .DFullName, .DPhone, .DEmail, .DAge, .DScore{
-                              font-weight: 900;
+                              font-weight: 200;
                               font-family:Baskerville Old Face;
                               font-size:120%;
+                              font-style:italic;
                               width:fit-content;
                               text-align: justify;
                               text-transform: capitalize;
@@ -120,13 +121,14 @@ body{
                     padding: 2%;
                }
                .Message{
-                    font-weight: 900;
+                    font-weight: 200;
                     font-family:Baskerville Old Face;
                     font-size:25px;
                     width:60%;
                     text-align: justify;
                     text-transform: capitalize;
                     color: gainsboro;
+                    font-style:italic;
                     height: fit-content;
                     box-shadow: 3px 4px 4px 3px black;
                     padding: 2%;
@@ -167,11 +169,12 @@ body{
                 .Author{
                      width: 50%;
                      box-shadow: 3px 4px 4px 3px black;
-                    font-weight: 900;
+                    font-weight: 200;
                     font-family:Baskerville Old Face;
                     font-size:20px;
                     color: gainsboro;
                     padding: 2%;
+                    font-style:italic;
                     display:flex;
                     flex-direction: column;
                     align-items: justify;
