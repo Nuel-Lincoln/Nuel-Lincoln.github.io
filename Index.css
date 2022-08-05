@@ -433,6 +433,9 @@ body{
                box-shadow: 1px 1px 1px 1px black;
                
           }
+          .Author{
+                     background-color: gainsboro;
+                    }
           .Contact{
                height: fit-content;
                margin-bottom: 5%;
