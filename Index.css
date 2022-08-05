@@ -413,7 +413,11 @@ body{
                     margin-top:5%;
                }
      @media screen and (max-width: 500px){
-          .Middle input{
+          .Middle{
+                   background-image:none;
+                   background-color:gainsboro;   
+                    }
+         .Middle input{
                font-size: 100%;
                box-shadow: 1px 1px 1px 1px black;
           }
@@ -433,7 +437,7 @@ body{
                padding: 5%;
                box-shadow: 1px 1px 1px 1px black;
                font-style: italic;
-               font-weight:200;
+               font-weight:500;
           }
           .Author{
                      background-color: gainsboro;
