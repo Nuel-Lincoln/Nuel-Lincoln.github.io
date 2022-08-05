@@ -417,6 +417,9 @@ body{
                    background-image:none;
                    background-color:gainsboro;   
                     }
+          .Header{
+                  margin-left: 1%;
+                   }
          .Middle input{
                font-size: 100%;
                box-shadow: 1px 1px 1px 1px black;
@@ -424,6 +427,7 @@ body{
           .First h1{
                font-size: 120%;
                box-shadow: 1px 1px 1px 1px black;
+               font-family: Baskerville, Georgia;
           }
           .Welcome, .Footer{
                flex-direction: column;
@@ -438,6 +442,7 @@ body{
                box-shadow: 1px 1px 1px 1px black;
                font-style: italic;
                font-weight:500;
+               font-family: Baskerville, Georgia;
           }
           .Author{
                      background-color: gainsboro;
@@ -462,12 +467,14 @@ body{
                font-size: 100%;
                box-shadow: 0px 0px 0px 0px black;
                font-weight: 100;
+               font-family: Baskerville, Georgia;
           }
           .LogOut{
                width: fit-content;
           }
           .DFullName, .DPhone, .DEmail, .DAge, .DScore{
                font-size: 80%;
+               font-family: Baskerville, Georgia;
           }
           .User{
                justify-content: justify;
@@ -482,9 +489,11 @@ body{
                width:90%;
                box-shadow: 1px 1px 1px 1px black;
                margin-left: 3%;
+               font-family: Baskerville, Georgia;
           }
           .Main input{
-               box-shadow: 1px 1px 1px 1px black;
+               box-shadow: .5px .5px .5px .5px black;
+               font-family: Baskerville, Georgia;
                }
            .BackToLogIn{
                margin-left: 10%;
