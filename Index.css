@@ -432,7 +432,8 @@ body{
                font-size: 100%;
                padding: 5%;
                box-shadow: 1px 1px 1px 1px black;
-               
+               font-style: italic;
+               font-weight:200;
           }
           .Author{
                      background-color: gainsboro;
@@ -455,7 +456,7 @@ body{
           }
           .Start input{
                font-size: 100%;
-               box-shadow: 1px 1px 1px 1px black;
+               box-shadow: 0px 0px 0px 0px black;
                font-weight: 100;
           }
           .LogOut{
