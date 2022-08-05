@@ -415,7 +415,7 @@ body{
                font-size: 100%;
           }
           .First h1{
-               font-size: 170%;
+               font-size: 150%;
           }
           .Welcome, .Footer{
                flex-direction: column;
@@ -451,7 +451,7 @@ body{
                display: none;
           }
           .DFullName, .DPhone, .DEmail, .DAge, .DScore{
-               font-size: 100%;
+               font-size: 80%;
           }
           .User{
                justify-content: justify;
