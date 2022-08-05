@@ -413,6 +413,7 @@ body{
      @media screen and (max-width: 500px){
           .Middle input{
                font-size: 100%;
+               box-shadow: 1px 1px 1px 1px black;
           }
           .First h1{
                font-size: 120%;
@@ -448,10 +449,11 @@ body{
           }
           .Start input{
                font-size: 100%;
+               box-shadow: 1px 1px 1px 1px black;
           }
-          .LogOut{
+/*           .LogOut{
                display: none;
-          }
+          } */
           .DFullName, .DPhone, .DEmail, .DAge, .DScore{
                font-size: 80%;
           }
@@ -464,6 +466,13 @@ body{
                font-size: 150%;
                /* padding: 2%; */
           }
+          .Main{
+               width:90%;
+               box-shadow: 1px 1px 1px 1px black;
+          }
+          .Main input{
+               box-shadow: 1px 1px 1px 1px black;
+               }
      }
      
      
