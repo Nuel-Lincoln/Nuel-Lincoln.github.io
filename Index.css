@@ -407,6 +407,7 @@ body{
                     display:none;
                     height: fit-content;
                     margin-top: 10%;
+                    margin-left: 3%;
                }
                .MBtn{
                     margin-top:5%;
@@ -455,6 +456,7 @@ body{
           .Start input{
                font-size: 100%;
                box-shadow: 1px 1px 1px 1px black;
+               font-weight: 100;
           }
           .LogOut{
                width: fit-content;
